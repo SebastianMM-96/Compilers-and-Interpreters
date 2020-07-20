@@ -1,0 +1,6 @@
+PRINT NUM1 ; NUM2 ; SUM
+LET NUM1 = 45
+LET NUM2 = 10
+SUM = NUM1 + NUM2 
+PRINT "la suma de " ; NUM1 ; "y" ; NUM2 ; "es" ; SUM
+END

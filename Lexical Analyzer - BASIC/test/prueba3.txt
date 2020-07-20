@@ -1,0 +1,7 @@
+% LET variable = expression
+% IF condition THEN statement
+% ELSE IF condition THEN statement
+% FOR 
+% statements
+% NEXT
+% INPUT valores
